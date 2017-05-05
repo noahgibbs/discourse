@@ -172,7 +172,7 @@ gem 'flamegraph', require: false
 gem 'rack-mini-profiler', require: false
 
 gem 'unicorn', require: false
-gem 'puma', require: false
+gem 'puma', require: false, git: "https://github.com/noahgibbs/puma"
 gem 'rbtrace', require: false, platform: :mri
 
 # required for feed importing and embedding

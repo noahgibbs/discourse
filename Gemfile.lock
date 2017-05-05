@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/noahgibbs/puma
+  revision: a90384ce033b71f3cd3737f225f2ad6de0398f46
+  specs:
+    puma (3.8.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -234,6 +240,7 @@ GEM
     pry-rails (0.3.4)
       pry (>= 0.9.10)
     puma (3.2.0)
+    public_suffix (2.0.5)
     r2 (0.2.6)
     rack (1.6.4)
     rack-mini-profiler (0.9.9.2)
@@ -461,7 +468,7 @@ DEPENDENCIES
   pg
   pry-nav
   pry-rails
-  puma
+  puma!
   r2 (~> 0.2.5)
   rack-mini-profiler
   rack-protection
