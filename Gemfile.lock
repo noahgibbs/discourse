@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/noahgibbs/puma
-  revision: a90384ce033b71f3cd3737f225f2ad6de0398f46
+  revision: a8382fe3ddbf4e9a473592f0ae2acc1be17ec214
   specs:
     puma (3.8.2)
 
