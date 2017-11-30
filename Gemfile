@@ -169,7 +169,7 @@ gem 'rack-mini-profiler', require: false
 
 gem 'unicorn', require: false
 gem 'puma', require: false
-gem 'rbtrace', require: false, platform: :mri
+#gem 'rbtrace', require: false, platform: :mri  # No rbtrace for YARV-MJIT
 gem 'gc_tracer', require: false, platform: :mri
 
 # required for feed importing and embedding
